@@ -1,0 +1,206 @@
+html{
+	font-size: 50px;
+}
+
+.box{
+	max-width: 7.5rem;
+	/* background-color: red; */
+	
+}
+.nav{
+	height: 1.22rem;
+	
+}
+.li-1{
+	width: 0.76rem;
+	font-size: 0.38rem;
+	margin-top: 0.76rem;
+	margin-left: 0.52rem;
+	float: left;
+}
+.li-2{
+	/* width: 1.39rem; */
+	font-size: 0.74rem;
+	margin-top: 0.37rem;
+	margin-left: 0.5rem;
+	float: left;
+}
+.nav img{
+	width: 0.32rem;
+	height: 0.37rem;
+	float: right;
+	margin-top: 0.78rem;
+	margin-right: 0.54rem;
+}
+.box-line{
+	width: 0.4rem;
+	height: 0.07rem;
+	margin-top: 0.15rem;
+	margin-left: 2.25rem;
+	background-color: black;
+}
+.header{
+	width: 6.48rem;
+	height: 0.52rem;
+	margin: 0 auto;
+	margin-top: 0.33rem;
+	/* background-color: red; */
+	
+}
+.header-1{
+	width: 1.09rem;
+	height: 0.52rem;
+	line-height: 0.52rem;
+	font-size: 0.28rem;
+	float: left;
+	background-color: #fafafa;
+	border-radius: 0.2rem;
+	text-align: center;
+}
+.header-2{
+	width: 1.38rem;
+	height: 0.52rem;
+	font-size: 0.28rem;
+	line-height: 0.52rem;
+	float: left;
+	background-color: #fafafa;
+	border-radius: 0.2rem;
+	text-align: center;
+}
+.header-3{
+	width: 1.09rem;
+	height: 0.52rem;
+	line-height: 0.52rem;
+	font-size: 0.28rem;
+	float: left;
+	color: #FAFAFA;
+	background-color: #f69f00;
+	border-radius: 0.2rem;
+	text-align: center;
+}
+.header-line{
+	width: 0.03rem;
+	height: 0.26rem;
+	background-color: #e1e1e1;
+	float: left;
+	margin-top: 0.15rem;
+	margin-left: 0.04rem;
+}
+.header img{
+	    float: left;
+	    margin-left: 0.32rem;
+	}
+
+/* .header:last-child img{
+	margin-top: 0.02rem;
+	margin-left: 0.27rem;
+	float: left;
+} */
+.aritic{
+	height: 0.57rem;
+	margin-top: 0.34rem;
+	
+}
+.aritic img{
+	width: 0.57rem;
+	margin-left: 0.52rem;
+	float: left;
+}
+.aritic-txt{
+	font-size: 0.28rem;
+	float: left;
+	margin-top: 0.1rem;
+	font-weight: bold;
+	margin-left: 0.13rem;
+}
+.phpto img{
+	width: 7.5rem;
+	margin-top: 0.14rem;
+}
+.pohoto-logo {
+	width: 6.47rem;
+	margin: 0 auto;
+}
+.logo-div{
+	float: ;
+}
+.pohoto-logo img{
+	width: 0.41rem;
+	float: left;
+}
+.logo2-txt{
+	float: left;
+	font-size: 0.24rem;
+	/* margin-top: 0.15rem; */
+	margin-left: 0.09rem;
+	font-weight: bold;
+}
+.logo-div-2 img{
+	margin-left: 0.53rem;
+	
+}
+.logo2-txt1{
+	font-size: 0.24rem;
+	margin-left: 0.09rem;
+	font-weight: bold;
+	float: left;
+}
+.logo-div-3 img{
+	margin-left: 0.53rem;
+}
+.logo-div-4 img{
+	float: right;
+}
+.logo-div-5{
+	font-size: 0.3rem;
+	font-weight: 600;
+	margin-top: 0.21rem;
+}
+.logo-div-6{
+	font-size: 0.24rem;
+	color: #c8c8c8;
+	margin-top: 0.22rem;
+}
+
+.last{
+	width: 100%;
+	height: 1.01rem;
+	background-color: #fff;
+	border-top: 0.01rem solid #ececec;
+	position: fixed;
+	bottom: 0;
+	}
+	.last ul{
+		display: flex;
+		justify-content: center;
+	}
+	.last ul li{
+		font-size: 0.18rem;
+		width: 25%;
+		text-align: center;
+	}
+	.last ul li img{
+		width: 0.35rem;
+		height: 0.38rem;
+		display: block;
+		margin: 0 auto;
+		margin-top: 0.25rem;
+		margin-bottom: 0.12rem;
+	}
+	.last ul li a{
+		color: #000000;
+	}
+	/* .last ul:nth-child(3) li img{
+		width: 0.77rem;
+		
+	} */
+	.aaa a {
+		display: inline-block;
+		width: 100%;
+		height: 100%;
+	}
+	.aaa a img{
+		width: 0.78rem!important;
+		height: 0.78rem!important;
+		margin-top: 0.15rem!important;
+	}

@@ -1,0 +1,156 @@
+html{
+	font-size: 50px;
+}
+.box{
+	max-width: 7.5rem;
+	/* margin: 0 auto;
+	padding: 0; */
+}
+.header{
+	height: 0.94rem;
+}
+
+.header-1 img{
+	width: 0.23rem;
+	height: 0.39rem;
+	margin-left: 0.48rem;
+	margin-top: 0.54rem;
+	/* font-size: 0.39rem;
+	font-weight: 600; */
+	float: left;
+}
+.header-2{
+	font-size: 0.38rem;
+	color: #333333;
+	float: left;
+	margin-left: 2.29rem;
+	margin-top: 0.5rem;
+}
+.header-3 img{
+	width: 0.29rem;
+	height: 0.32rem;
+	float: left;
+	margin-top: 0.59rem;
+	margin-left: 2.14rem;
+}
+.phpto{
+	height: 1.15rem;
+}
+
+.phpto-1 img{
+	width: 0.8rem;
+	height: 0.8rem;
+	margin-left: 0.5rem;
+	margin-top: 0.32rem;
+	float: left;
+}
+.phpto-2{
+	width: 3.39rem;
+	float: left;
+	margin-left: 0.17rem;
+	margin-top: 0.32rem;
+}
+.phpto-2 .p1{
+	font-size:0.3rem;
+	margin-top: 0.08rem;
+	letter-spacing: 0.02rem;
+}
+.phpto-2 .p2{
+	font-size: 0.24rem;
+	color: #999999;
+	
+}
+.photo-3{
+	width: 1.13rem;
+	height: 0.48rem;
+	border: 2px solid #d1d1d1;
+	font-size: 0.26rem;
+	text-align: center;
+	line-height: 0.48rem;
+	color: #999999;
+	margin-top: 0.48rem;
+	margin-left: 1.01rem;
+	font-weight: 600;
+	float: left;
+}
+.images-box{
+	width: 6.51rem;
+	margin: 0 auto;
+	margin-top: 0.14rem;
+}
+.images-box img{
+	width: 2.06rem;
+	height: 2.06rem;
+	float: left;
+	margin-right: 0.14rem;
+}
+.images-box img:nth-child(3){
+	margin-right: 0;
+}
+/* .images .pp1{
+	width: 6.51rem;
+	height: 0.26rem;
+	margin: 0 auto;
+} */
+.images .pp1 img{
+	width: 0.27rem;
+	height: 0.23rem;
+	margin-top: 0.16rem;
+	float: left;
+}
+.pp2{
+	float: left;
+	font-size: 0.26rem;
+	margin-top: 0.12rem;
+	color: #999999;
+	
+}
+.phpto-1-a img{
+	width: 0.8rem;
+	height: 0.8rem;
+	margin-left: 0.5rem;
+	margin-top: 0.56rem;
+	float: left;
+}
+.phpto-2-a{
+	width: 3.39rem;
+	float: left;
+	margin-left: 0.17rem;
+	margin-top: 0.56rem;
+}
+.phpto-2-a .p1{
+	font-size:0.3rem;
+	margin-top: 0.08rem;
+	letter-spacing: 0.02rem;
+}
+.phpto-2-a .p2{
+	font-size: 0.24rem;
+	color: #999999;
+	
+}
+.photo-3-a{
+	width: 1.13rem;
+	height: 0.48rem;
+	border: 2px solid #d1d1d1;
+	font-size: 0.26rem;
+	text-align: center;
+	line-height: 0.48rem;
+	/* color: #999999; */
+	margin-top: 0.7rem;
+	margin-left: 1.01rem;
+	font-weight: 600;
+	float: left;
+}
+.photo-3-b{
+	width: 1.13rem;
+	height: 0.48rem;
+	border: 2px solid #d1d1d1;
+	font-size: 0.26rem;
+	text-align: center;
+	line-height: 0.48rem;
+	color: #999999;
+	margin-top: 0.7rem;
+	margin-left: 1.01rem;
+	font-weight: 600;
+	float: left;
+}
